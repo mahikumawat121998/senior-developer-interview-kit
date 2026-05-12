@@ -1,0 +1,25 @@
+{
+  "name": "senior-developer-interview-kit",
+  "version": "1.0.0",
+  "description": "senior-developer-interview-kit",
+  "main": "js-coding-question.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahikumawat121998/senior-developer-interview-kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mahikumawat121998/senior-developer-interview-kit/issues"
+  },
+  "homepage": "https://github.com/mahikumawat121998/senior-developer-interview-kit#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
