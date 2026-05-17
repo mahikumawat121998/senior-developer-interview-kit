@@ -57,7 +57,7 @@ return -1;
 const arr = [1, 3, 5, 7, 9, 11];
 console.log(binarySearch(arr, 7)); // Output: 3
 
-Problem Number 3;
+// Problem Number 3;
 
 const unsortedArry=[12,3,4,5,2,8,0];
 const sortArray=(arr)=>{
@@ -292,7 +292,7 @@ clearInterval(z);
 console.log("Interval Clear")
 },10000);
 
-### Using Over here Closure and setTimeout togather
+// ### Using Over here Closure and setTimeout togather
 
 let count=0;
 let runnerTime=()=>{
@@ -408,7 +408,7 @@ console.log("result",result);
 
 findPairs([2, 4, 3, 5, 7, 8], 10);
 
-This is optimum way to solve this type of problem
+// This is optimum way to solve this type of problem
 
 const findPairs=(arr,target)=>{
 let x=new Set();
